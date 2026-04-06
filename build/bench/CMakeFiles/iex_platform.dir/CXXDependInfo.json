@@ -1,0 +1,40 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "GNU",
+	"compiler-id" : "Clang",
+	"compiler-simulate-id" : "",
+	"config" : "RelWithDebInfo",
+	"cxx-modules" : {},
+	"database-info" : null,
+	"dir-cur-bld" : "/Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine/build/bench",
+	"dir-cur-src" : "/Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine",
+	"dir-top-bld" : "/Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine/build/bench",
+	"dir-top-src" : "/Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : 
+	[
+		"/Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine"
+	],
+	"language" : "CXX",
+	"linked-target-dirs" : [],
+	"module-dir" : "/Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine/build/bench/CMakeFiles/iex_platform.dir",
+	"sources" : 
+	{
+		"CMakeFiles/iex_platform.dir/platform/clock.cpp.o" : 
+		{
+			"language" : "CXX",
+			"source" : "/Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine/platform/clock.cpp"
+		},
+		"CMakeFiles/iex_platform.dir/platform/memory.cpp.o" : 
+		{
+			"language" : "CXX",
+			"source" : "/Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine/platform/memory.cpp"
+		},
+		"CMakeFiles/iex_platform.dir/platform/thread.cpp.o" : 
+		{
+			"language" : "CXX",
+			"source" : "/Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine/platform/thread.cpp"
+		}
+	}
+}
