@@ -1,0 +1,12 @@
+{
+	"InstallScripts" : 
+	[
+		"/Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine/build/debug/cmake_install.cmake",
+		"/Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine/build/debug/_deps/googletest-build/cmake_install.cmake",
+		"/Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine/build/debug/_deps/googletest-build/googlemock/cmake_install.cmake",
+		"/Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine/build/debug/_deps/googletest-build/googletest/cmake_install.cmake",
+		"/Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine/build/debug/_deps/googlebenchmark-build/cmake_install.cmake",
+		"/Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine/build/debug/_deps/googlebenchmark-build/src/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
