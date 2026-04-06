@@ -1,0 +1,40 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "GNU",
+	"compiler-id" : "Clang",
+	"compiler-simulate-id" : "",
+	"config" : "Debug",
+	"cxx-modules" : {},
+	"database-info" : null,
+	"dir-cur-bld" : "/Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine/build/debug",
+	"dir-cur-src" : "/Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine",
+	"dir-top-bld" : "/Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine/build/debug",
+	"dir-top-src" : "/Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : 
+	[
+		"/Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine"
+	],
+	"language" : "CXX",
+	"linked-target-dirs" : [],
+	"module-dir" : "/Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine/build/debug/CMakeFiles/iex_engine_lib.dir",
+	"sources" : 
+	{
+		"CMakeFiles/iex_engine_lib.dir/engine/matching_engine.cpp.o" : 
+		{
+			"language" : "CXX",
+			"source" : "/Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine/engine/matching_engine.cpp"
+		},
+		"CMakeFiles/iex_engine_lib.dir/engine/order_book.cpp.o" : 
+		{
+			"language" : "CXX",
+			"source" : "/Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine/engine/order_book.cpp"
+		},
+		"CMakeFiles/iex_engine_lib.dir/engine/order_pool.cpp.o" : 
+		{
+			"language" : "CXX",
+			"source" : "/Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine/engine/order_pool.cpp"
+		}
+	}
+}
