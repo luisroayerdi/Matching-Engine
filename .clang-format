@@ -1,0 +1,58 @@
+---
+Language:                             Cpp
+Standard:                             c++23
+BasedOnStyle:                         Google
+
+# Indentation
+IndentWidth:                          4
+ContinuationIndentWidth:              4
+TabWidth:                             4
+UseTab:                               Never
+IndentCaseLabels:                     true
+IndentPPDirectives:                   BeforeHash
+NamespaceIndentation:                 None
+
+# Line length
+ColumnLimit:                          100
+
+# Braces
+BreakBeforeBraces:                    Attach
+BraceWrapping:
+  AfterClass:                         false
+  AfterFunction:                      false
+  AfterNamespace:                     false
+  BeforeElse:                         false
+
+# Alignment
+AlignAfterOpenBracket:                Align
+AlignConsecutiveAssignments:          AcrossComments
+AlignConsecutiveDeclarations:         AcrossComments
+AlignTrailingComments:
+  Kind:                               Always
+  OverEmptyLines:                     1
+PointerAlignment:                     Left
+
+# Includes
+SortIncludes:                         CaseSensitive
+IncludeBlocks:                        Regroup
+IncludeCategories:
+  - Regex:         "^<[a-z_]+>$"
+    Priority:      1
+  - Regex:         "^<.*\\.h>$"
+    Priority:      2
+  - Regex:         "^\"(engine|ipc|market_data|platform)/"
+    Priority:      3
+
+# Spacing
+SpaceAfterCStyleCast:                 false
+SpaceBeforeParens:                    ControlStatements
+SpacesInAngles:                       Never
+SpacesInContainerLiterals:            false
+
+# Other
+AllowShortFunctionsOnASingleLine:     Inline
+AllowShortIfStatementsOnASingleLine:  Never
+AllowShortLoopsOnASingleLine:         false
+DerivePointerAlignment:               false
+FixNamespaceComments:                 true
+ReflowComments:                       false
