@@ -1,0 +1,47 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "GNU",
+	"compiler-id" : "Clang",
+	"compiler-simulate-id" : "",
+	"config" : "Debug",
+	"cxx-modules" : {},
+	"database-info" : null,
+	"dir-cur-bld" : "/Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine/build/debug",
+	"dir-cur-src" : "/Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine",
+	"dir-top-bld" : "/Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine/build/debug",
+	"dir-top-src" : "/Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : 
+	[
+		"/Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine",
+		"_deps/googletest-src/googletest/include",
+		"_deps/googletest-src/googletest"
+	],
+	"language" : "CXX",
+	"linked-target-dirs" : [],
+	"module-dir" : "/Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine/build/debug/CMakeFiles/unit_tests.dir",
+	"sources" : 
+	{
+		"CMakeFiles/unit_tests.dir/tests/unit/test_matching_engine.cpp.o" : 
+		{
+			"language" : "CXX",
+			"source" : "/Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine/tests/unit/test_matching_engine.cpp"
+		},
+		"CMakeFiles/unit_tests.dir/tests/unit/test_order_book.cpp.o" : 
+		{
+			"language" : "CXX",
+			"source" : "/Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine/tests/unit/test_order_book.cpp"
+		},
+		"CMakeFiles/unit_tests.dir/tests/unit/test_order_pool.cpp.o" : 
+		{
+			"language" : "CXX",
+			"source" : "/Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine/tests/unit/test_order_pool.cpp"
+		},
+		"CMakeFiles/unit_tests.dir/tests/unit/test_types.cpp.o" : 
+		{
+			"language" : "CXX",
+			"source" : "/Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine/tests/unit/test_types.cpp"
+		}
+	}
+}
