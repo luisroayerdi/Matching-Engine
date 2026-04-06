@@ -1,0 +1,7 @@
+ninja_dyndep_version = 1.0
+build CMakeFiles/iex_engine_lib.dir/engine/order_pool.cpp.o: dyndep
+
+build CMakeFiles/iex_engine_lib.dir/engine/order_book.cpp.o: dyndep
+
+build CMakeFiles/iex_engine_lib.dir/engine/matching_engine.cpp.o: dyndep
+
