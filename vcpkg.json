@@ -1,0 +1,17 @@
+{
+  "$schema": "https://raw.githubusercontent.com/microsoft/vcpkg/master/scripts/vcpkg.schema.json",
+  "name": "iex-matching-engine",
+  "version": "0.1.0",
+  "description": "IEX DEEP Core matching engine",
+  "dependencies": [
+    {
+      "name": "googletest",
+      "version>=": "1.15.2"
+    },
+    {
+      "name": "benchmark",
+      "version>=": "1.9.1"
+    }
+  ],
+  "builtin-baseline": "b02e341c927f16d991edbd915d8ea43eac52096c"
+}
