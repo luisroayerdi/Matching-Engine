@@ -1,0 +1,1569 @@
+Start testing: Apr 06 00:00 CDT
+----------------------------------------------------------
+1/58 Testing: TypeSizes.ScalarAliases
+1/58 Test: TypeSizes.ScalarAliases
+Command: "/Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine/build/debug/unit_tests" "--gtest_filter=TypeSizes.ScalarAliases" "--gtest_also_run_disabled_tests"
+Directory: /Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine/build/debug
+"TypeSizes.ScalarAliases" start time: Apr 06 00:00 CDT
+Output:
+----------------------------------------------------------
+Running main() from /Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine/build/debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = TypeSizes.ScalarAliases
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from TypeSizes
+[ RUN      ] TypeSizes.ScalarAliases
+[       OK ] TypeSizes.ScalarAliases (0 ms)
+[----------] 1 test from TypeSizes (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.11 sec
+----------------------------------------------------------
+Test Passed.
+"TypeSizes.ScalarAliases" end time: Apr 06 00:00 CDT
+"TypeSizes.ScalarAliases" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/58 Testing: TypeSizes.Enums
+2/58 Test: TypeSizes.Enums
+Command: "/Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine/build/debug/unit_tests" "--gtest_filter=TypeSizes.Enums" "--gtest_also_run_disabled_tests"
+Directory: /Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine/build/debug
+"TypeSizes.Enums" start time: Apr 06 00:00 CDT
+Output:
+----------------------------------------------------------
+Running main() from /Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine/build/debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = TypeSizes.Enums
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from TypeSizes
+[ RUN      ] TypeSizes.Enums
+[       OK ] TypeSizes.Enums (0 ms)
+[----------] 1 test from TypeSizes (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.04 sec
+----------------------------------------------------------
+Test Passed.
+"TypeSizes.Enums" end time: Apr 06 00:00 CDT
+"TypeSizes.Enums" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/58 Testing: TypeSizes.BestBidOffer
+3/58 Test: TypeSizes.BestBidOffer
+Command: "/Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine/build/debug/unit_tests" "--gtest_filter=TypeSizes.BestBidOffer" "--gtest_also_run_disabled_tests"
+Directory: /Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine/build/debug
+"TypeSizes.BestBidOffer" start time: Apr 06 00:00 CDT
+Output:
+----------------------------------------------------------
+Running main() from /Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine/build/debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = TypeSizes.BestBidOffer
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from TypeSizes
+[ RUN      ] TypeSizes.BestBidOffer
+[       OK ] TypeSizes.BestBidOffer (0 ms)
+[----------] 1 test from TypeSizes (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.04 sec
+----------------------------------------------------------
+Test Passed.
+"TypeSizes.BestBidOffer" end time: Apr 06 00:00 CDT
+"TypeSizes.BestBidOffer" time elapsed: 00:00:00
+----------------------------------------------------------
+
+4/58 Testing: TypeSizes.TradeEvent
+4/58 Test: TypeSizes.TradeEvent
+Command: "/Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine/build/debug/unit_tests" "--gtest_filter=TypeSizes.TradeEvent" "--gtest_also_run_disabled_tests"
+Directory: /Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine/build/debug
+"TypeSizes.TradeEvent" start time: Apr 06 00:00 CDT
+Output:
+----------------------------------------------------------
+Running main() from /Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine/build/debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = TypeSizes.TradeEvent
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from TypeSizes
+[ RUN      ] TypeSizes.TradeEvent
+[       OK ] TypeSizes.TradeEvent (0 ms)
+[----------] 1 test from TypeSizes (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.04 sec
+----------------------------------------------------------
+Test Passed.
+"TypeSizes.TradeEvent" end time: Apr 06 00:00 CDT
+"TypeSizes.TradeEvent" time elapsed: 00:00:00
+----------------------------------------------------------
+
+5/58 Testing: TypeSizes.Order
+5/58 Test: TypeSizes.Order
+Command: "/Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine/build/debug/unit_tests" "--gtest_filter=TypeSizes.Order" "--gtest_also_run_disabled_tests"
+Directory: /Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine/build/debug
+"TypeSizes.Order" start time: Apr 06 00:00 CDT
+Output:
+----------------------------------------------------------
+Running main() from /Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine/build/debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = TypeSizes.Order
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from TypeSizes
+[ RUN      ] TypeSizes.Order
+[       OK ] TypeSizes.Order (0 ms)
+[----------] 1 test from TypeSizes (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"TypeSizes.Order" end time: Apr 06 00:00 CDT
+"TypeSizes.Order" time elapsed: 00:00:00
+----------------------------------------------------------
+
+6/58 Testing: EnumValues.Side
+6/58 Test: EnumValues.Side
+Command: "/Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine/build/debug/unit_tests" "--gtest_filter=EnumValues.Side" "--gtest_also_run_disabled_tests"
+Directory: /Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine/build/debug
+"EnumValues.Side" start time: Apr 06 00:00 CDT
+Output:
+----------------------------------------------------------
+Running main() from /Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine/build/debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = EnumValues.Side
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from EnumValues
+[ RUN      ] EnumValues.Side
+[       OK ] EnumValues.Side (0 ms)
+[----------] 1 test from EnumValues (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.04 sec
+----------------------------------------------------------
+Test Passed.
+"EnumValues.Side" end time: Apr 06 00:00 CDT
+"EnumValues.Side" time elapsed: 00:00:00
+----------------------------------------------------------
+
+7/58 Testing: EnumValues.OrderType
+7/58 Test: EnumValues.OrderType
+Command: "/Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine/build/debug/unit_tests" "--gtest_filter=EnumValues.OrderType" "--gtest_also_run_disabled_tests"
+Directory: /Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine/build/debug
+"EnumValues.OrderType" start time: Apr 06 00:00 CDT
+Output:
+----------------------------------------------------------
+Running main() from /Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine/build/debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = EnumValues.OrderType
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from EnumValues
+[ RUN      ] EnumValues.OrderType
+[       OK ] EnumValues.OrderType (0 ms)
+[----------] 1 test from EnumValues (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.04 sec
+----------------------------------------------------------
+Test Passed.
+"EnumValues.OrderType" end time: Apr 06 00:00 CDT
+"EnumValues.OrderType" time elapsed: 00:00:00
+----------------------------------------------------------
+
+8/58 Testing: EnumValues.TradingStatus
+8/58 Test: EnumValues.TradingStatus
+Command: "/Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine/build/debug/unit_tests" "--gtest_filter=EnumValues.TradingStatus" "--gtest_also_run_disabled_tests"
+Directory: /Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine/build/debug
+"EnumValues.TradingStatus" start time: Apr 06 00:00 CDT
+Output:
+----------------------------------------------------------
+Running main() from /Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine/build/debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = EnumValues.TradingStatus
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from EnumValues
+[ RUN      ] EnumValues.TradingStatus
+[       OK ] EnumValues.TradingStatus (0 ms)
+[----------] 1 test from EnumValues (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.04 sec
+----------------------------------------------------------
+Test Passed.
+"EnumValues.TradingStatus" end time: Apr 06 00:00 CDT
+"EnumValues.TradingStatus" time elapsed: 00:00:00
+----------------------------------------------------------
+
+9/58 Testing: TriviallyCopyable.BestBidOffer
+9/58 Test: TriviallyCopyable.BestBidOffer
+Command: "/Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine/build/debug/unit_tests" "--gtest_filter=TriviallyCopyable.BestBidOffer" "--gtest_also_run_disabled_tests"
+Directory: /Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine/build/debug
+"TriviallyCopyable.BestBidOffer" start time: Apr 06 00:00 CDT
+Output:
+----------------------------------------------------------
+Running main() from /Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine/build/debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = TriviallyCopyable.BestBidOffer
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from TriviallyCopyable
+[ RUN      ] TriviallyCopyable.BestBidOffer
+[       OK ] TriviallyCopyable.BestBidOffer (0 ms)
+[----------] 1 test from TriviallyCopyable (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.04 sec
+----------------------------------------------------------
+Test Passed.
+"TriviallyCopyable.BestBidOffer" end time: Apr 06 00:00 CDT
+"TriviallyCopyable.BestBidOffer" time elapsed: 00:00:00
+----------------------------------------------------------
+
+10/58 Testing: TriviallyCopyable.TradeEvent
+10/58 Test: TriviallyCopyable.TradeEvent
+Command: "/Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine/build/debug/unit_tests" "--gtest_filter=TriviallyCopyable.TradeEvent" "--gtest_also_run_disabled_tests"
+Directory: /Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine/build/debug
+"TriviallyCopyable.TradeEvent" start time: Apr 06 00:00 CDT
+Output:
+----------------------------------------------------------
+Running main() from /Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine/build/debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = TriviallyCopyable.TradeEvent
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from TriviallyCopyable
+[ RUN      ] TriviallyCopyable.TradeEvent
+[       OK ] TriviallyCopyable.TradeEvent (0 ms)
+[----------] 1 test from TriviallyCopyable (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.04 sec
+----------------------------------------------------------
+Test Passed.
+"TriviallyCopyable.TradeEvent" end time: Apr 06 00:00 CDT
+"TriviallyCopyable.TradeEvent" time elapsed: 00:00:00
+----------------------------------------------------------
+
+11/58 Testing: TriviallyCopyable.Order
+11/58 Test: TriviallyCopyable.Order
+Command: "/Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine/build/debug/unit_tests" "--gtest_filter=TriviallyCopyable.Order" "--gtest_also_run_disabled_tests"
+Directory: /Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine/build/debug
+"TriviallyCopyable.Order" start time: Apr 06 00:00 CDT
+Output:
+----------------------------------------------------------
+Running main() from /Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine/build/debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = TriviallyCopyable.Order
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from TriviallyCopyable
+[ RUN      ] TriviallyCopyable.Order
+[       OK ] TriviallyCopyable.Order (0 ms)
+[----------] 1 test from TriviallyCopyable (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.04 sec
+----------------------------------------------------------
+Test Passed.
+"TriviallyCopyable.Order" end time: Apr 06 00:00 CDT
+"TriviallyCopyable.Order" time elapsed: 00:00:00
+----------------------------------------------------------
+
+12/58 Testing: BestBidOffer.ZeroInitialised
+12/58 Test: BestBidOffer.ZeroInitialised
+Command: "/Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine/build/debug/unit_tests" "--gtest_filter=BestBidOffer.ZeroInitialised" "--gtest_also_run_disabled_tests"
+Directory: /Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine/build/debug
+"BestBidOffer.ZeroInitialised" start time: Apr 06 00:00 CDT
+Output:
+----------------------------------------------------------
+Running main() from /Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine/build/debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = BestBidOffer.ZeroInitialised
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from BestBidOffer
+[ RUN      ] BestBidOffer.ZeroInitialised
+[       OK ] BestBidOffer.ZeroInitialised (0 ms)
+[----------] 1 test from BestBidOffer (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"BestBidOffer.ZeroInitialised" end time: Apr 06 00:00 CDT
+"BestBidOffer.ZeroInitialised" time elapsed: 00:00:00
+----------------------------------------------------------
+
+13/58 Testing: PoolTest.AllocReturnsValidPointer
+13/58 Test: PoolTest.AllocReturnsValidPointer
+Command: "/Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine/build/debug/unit_tests" "--gtest_filter=PoolTest.AllocReturnsValidPointer" "--gtest_also_run_disabled_tests"
+Directory: /Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine/build/debug
+"PoolTest.AllocReturnsValidPointer" start time: Apr 06 00:00 CDT
+Output:
+----------------------------------------------------------
+Running main() from /Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine/build/debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = PoolTest.AllocReturnsValidPointer
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from PoolTest
+[ RUN      ] PoolTest.AllocReturnsValidPointer
+[       OK ] PoolTest.AllocReturnsValidPointer (0 ms)
+[----------] 1 test from PoolTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.04 sec
+----------------------------------------------------------
+Test Passed.
+"PoolTest.AllocReturnsValidPointer" end time: Apr 06 00:00 CDT
+"PoolTest.AllocReturnsValidPointer" time elapsed: 00:00:00
+----------------------------------------------------------
+
+14/58 Testing: PoolTest.AllocedOrderHasNonZeroId
+14/58 Test: PoolTest.AllocedOrderHasNonZeroId
+Command: "/Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine/build/debug/unit_tests" "--gtest_filter=PoolTest.AllocedOrderHasNonZeroId" "--gtest_also_run_disabled_tests"
+Directory: /Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine/build/debug
+"PoolTest.AllocedOrderHasNonZeroId" start time: Apr 06 00:00 CDT
+Output:
+----------------------------------------------------------
+Running main() from /Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine/build/debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = PoolTest.AllocedOrderHasNonZeroId
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from PoolTest
+[ RUN      ] PoolTest.AllocedOrderHasNonZeroId
+[       OK ] PoolTest.AllocedOrderHasNonZeroId (0 ms)
+[----------] 1 test from PoolTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"PoolTest.AllocedOrderHasNonZeroId" end time: Apr 06 00:00 CDT
+"PoolTest.AllocedOrderHasNonZeroId" time elapsed: 00:00:00
+----------------------------------------------------------
+
+15/58 Testing: PoolTest.AllocedOrderHasNullLinks
+15/58 Test: PoolTest.AllocedOrderHasNullLinks
+Command: "/Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine/build/debug/unit_tests" "--gtest_filter=PoolTest.AllocedOrderHasNullLinks" "--gtest_also_run_disabled_tests"
+Directory: /Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine/build/debug
+"PoolTest.AllocedOrderHasNullLinks" start time: Apr 06 00:00 CDT
+Output:
+----------------------------------------------------------
+Running main() from /Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine/build/debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = PoolTest.AllocedOrderHasNullLinks
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from PoolTest
+[ RUN      ] PoolTest.AllocedOrderHasNullLinks
+[       OK ] PoolTest.AllocedOrderHasNullLinks (0 ms)
+[----------] 1 test from PoolTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.04 sec
+----------------------------------------------------------
+Test Passed.
+"PoolTest.AllocedOrderHasNullLinks" end time: Apr 06 00:00 CDT
+"PoolTest.AllocedOrderHasNullLinks" time elapsed: 00:00:00
+----------------------------------------------------------
+
+16/58 Testing: PoolTest.FreeCountDecrementsOnAlloc
+16/58 Test: PoolTest.FreeCountDecrementsOnAlloc
+Command: "/Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine/build/debug/unit_tests" "--gtest_filter=PoolTest.FreeCountDecrementsOnAlloc" "--gtest_also_run_disabled_tests"
+Directory: /Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine/build/debug
+"PoolTest.FreeCountDecrementsOnAlloc" start time: Apr 06 00:00 CDT
+Output:
+----------------------------------------------------------
+Running main() from /Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine/build/debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = PoolTest.FreeCountDecrementsOnAlloc
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from PoolTest
+[ RUN      ] PoolTest.FreeCountDecrementsOnAlloc
+[       OK ] PoolTest.FreeCountDecrementsOnAlloc (0 ms)
+[----------] 1 test from PoolTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.04 sec
+----------------------------------------------------------
+Test Passed.
+"PoolTest.FreeCountDecrementsOnAlloc" end time: Apr 06 00:00 CDT
+"PoolTest.FreeCountDecrementsOnAlloc" time elapsed: 00:00:00
+----------------------------------------------------------
+
+17/58 Testing: PoolTest.FreeCountIncrementsOnFree
+17/58 Test: PoolTest.FreeCountIncrementsOnFree
+Command: "/Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine/build/debug/unit_tests" "--gtest_filter=PoolTest.FreeCountIncrementsOnFree" "--gtest_also_run_disabled_tests"
+Directory: /Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine/build/debug
+"PoolTest.FreeCountIncrementsOnFree" start time: Apr 06 00:00 CDT
+Output:
+----------------------------------------------------------
+Running main() from /Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine/build/debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = PoolTest.FreeCountIncrementsOnFree
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from PoolTest
+[ RUN      ] PoolTest.FreeCountIncrementsOnFree
+[       OK ] PoolTest.FreeCountIncrementsOnFree (0 ms)
+[----------] 1 test from PoolTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.04 sec
+----------------------------------------------------------
+Test Passed.
+"PoolTest.FreeCountIncrementsOnFree" end time: Apr 06 00:00 CDT
+"PoolTest.FreeCountIncrementsOnFree" time elapsed: 00:00:00
+----------------------------------------------------------
+
+18/58 Testing: PoolTest.GetByIdFindsLiveOrder
+18/58 Test: PoolTest.GetByIdFindsLiveOrder
+Command: "/Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine/build/debug/unit_tests" "--gtest_filter=PoolTest.GetByIdFindsLiveOrder" "--gtest_also_run_disabled_tests"
+Directory: /Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine/build/debug
+"PoolTest.GetByIdFindsLiveOrder" start time: Apr 06 00:00 CDT
+Output:
+----------------------------------------------------------
+Running main() from /Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine/build/debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = PoolTest.GetByIdFindsLiveOrder
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from PoolTest
+[ RUN      ] PoolTest.GetByIdFindsLiveOrder
+[       OK ] PoolTest.GetByIdFindsLiveOrder (0 ms)
+[----------] 1 test from PoolTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.04 sec
+----------------------------------------------------------
+Test Passed.
+"PoolTest.GetByIdFindsLiveOrder" end time: Apr 06 00:00 CDT
+"PoolTest.GetByIdFindsLiveOrder" time elapsed: 00:00:00
+----------------------------------------------------------
+
+19/58 Testing: PoolTest.GetByIdReturnsNullAfterFree
+19/58 Test: PoolTest.GetByIdReturnsNullAfterFree
+Command: "/Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine/build/debug/unit_tests" "--gtest_filter=PoolTest.GetByIdReturnsNullAfterFree" "--gtest_also_run_disabled_tests"
+Directory: /Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine/build/debug
+"PoolTest.GetByIdReturnsNullAfterFree" start time: Apr 06 00:00 CDT
+Output:
+----------------------------------------------------------
+Running main() from /Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine/build/debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = PoolTest.GetByIdReturnsNullAfterFree
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from PoolTest
+[ RUN      ] PoolTest.GetByIdReturnsNullAfterFree
+[       OK ] PoolTest.GetByIdReturnsNullAfterFree (0 ms)
+[----------] 1 test from PoolTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.04 sec
+----------------------------------------------------------
+Test Passed.
+"PoolTest.GetByIdReturnsNullAfterFree" end time: Apr 06 00:00 CDT
+"PoolTest.GetByIdReturnsNullAfterFree" time elapsed: 00:00:00
+----------------------------------------------------------
+
+20/58 Testing: PoolTest.GetByIdReturnsNullAfterReallocSameSlot
+20/58 Test: PoolTest.GetByIdReturnsNullAfterReallocSameSlot
+Command: "/Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine/build/debug/unit_tests" "--gtest_filter=PoolTest.GetByIdReturnsNullAfterReallocSameSlot" "--gtest_also_run_disabled_tests"
+Directory: /Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine/build/debug
+"PoolTest.GetByIdReturnsNullAfterReallocSameSlot" start time: Apr 06 00:00 CDT
+Output:
+----------------------------------------------------------
+Running main() from /Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine/build/debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = PoolTest.GetByIdReturnsNullAfterReallocSameSlot
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from PoolTest
+[ RUN      ] PoolTest.GetByIdReturnsNullAfterReallocSameSlot
+[       OK ] PoolTest.GetByIdReturnsNullAfterReallocSameSlot (0 ms)
+[----------] 1 test from PoolTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.04 sec
+----------------------------------------------------------
+Test Passed.
+"PoolTest.GetByIdReturnsNullAfterReallocSameSlot" end time: Apr 06 00:00 CDT
+"PoolTest.GetByIdReturnsNullAfterReallocSameSlot" time elapsed: 00:00:00
+----------------------------------------------------------
+
+21/58 Testing: PoolTest.GetByIdReturnsNullForOutOfRangeSlot
+21/58 Test: PoolTest.GetByIdReturnsNullForOutOfRangeSlot
+Command: "/Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine/build/debug/unit_tests" "--gtest_filter=PoolTest.GetByIdReturnsNullForOutOfRangeSlot" "--gtest_also_run_disabled_tests"
+Directory: /Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine/build/debug
+"PoolTest.GetByIdReturnsNullForOutOfRangeSlot" start time: Apr 06 00:00 CDT
+Output:
+----------------------------------------------------------
+Running main() from /Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine/build/debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = PoolTest.GetByIdReturnsNullForOutOfRangeSlot
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from PoolTest
+[ RUN      ] PoolTest.GetByIdReturnsNullForOutOfRangeSlot
+[       OK ] PoolTest.GetByIdReturnsNullForOutOfRangeSlot (0 ms)
+[----------] 1 test from PoolTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.04 sec
+----------------------------------------------------------
+Test Passed.
+"PoolTest.GetByIdReturnsNullForOutOfRangeSlot" end time: Apr 06 00:00 CDT
+"PoolTest.GetByIdReturnsNullForOutOfRangeSlot" time elapsed: 00:00:00
+----------------------------------------------------------
+
+22/58 Testing: PoolTest.ExhaustionReturnsError
+22/58 Test: PoolTest.ExhaustionReturnsError
+Command: "/Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine/build/debug/unit_tests" "--gtest_filter=PoolTest.ExhaustionReturnsError" "--gtest_also_run_disabled_tests"
+Directory: /Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine/build/debug
+"PoolTest.ExhaustionReturnsError" start time: Apr 06 00:00 CDT
+Output:
+----------------------------------------------------------
+Running main() from /Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine/build/debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = PoolTest.ExhaustionReturnsError
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from PoolTest
+[ RUN      ] PoolTest.ExhaustionReturnsError
+[       OK ] PoolTest.ExhaustionReturnsError (0 ms)
+[----------] 1 test from PoolTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"PoolTest.ExhaustionReturnsError" end time: Apr 06 00:00 CDT
+"PoolTest.ExhaustionReturnsError" time elapsed: 00:00:00
+----------------------------------------------------------
+
+23/58 Testing: PoolTest.ExhaustionThenFreeAndReallocSucceeds
+23/58 Test: PoolTest.ExhaustionThenFreeAndReallocSucceeds
+Command: "/Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine/build/debug/unit_tests" "--gtest_filter=PoolTest.ExhaustionThenFreeAndReallocSucceeds" "--gtest_also_run_disabled_tests"
+Directory: /Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine/build/debug
+"PoolTest.ExhaustionThenFreeAndReallocSucceeds" start time: Apr 06 00:00 CDT
+Output:
+----------------------------------------------------------
+Running main() from /Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine/build/debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = PoolTest.ExhaustionThenFreeAndReallocSucceeds
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from PoolTest
+[ RUN      ] PoolTest.ExhaustionThenFreeAndReallocSucceeds
+[       OK ] PoolTest.ExhaustionThenFreeAndReallocSucceeds (0 ms)
+[----------] 1 test from PoolTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.04 sec
+----------------------------------------------------------
+Test Passed.
+"PoolTest.ExhaustionThenFreeAndReallocSucceeds" end time: Apr 06 00:00 CDT
+"PoolTest.ExhaustionThenFreeAndReallocSucceeds" time elapsed: 00:00:00
+----------------------------------------------------------
+
+24/58 Testing: PoolTest.AllAllocedPointersAreDistinct
+24/58 Test: PoolTest.AllAllocedPointersAreDistinct
+Command: "/Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine/build/debug/unit_tests" "--gtest_filter=PoolTest.AllAllocedPointersAreDistinct" "--gtest_also_run_disabled_tests"
+Directory: /Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine/build/debug
+"PoolTest.AllAllocedPointersAreDistinct" start time: Apr 06 00:00 CDT
+Output:
+----------------------------------------------------------
+Running main() from /Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine/build/debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = PoolTest.AllAllocedPointersAreDistinct
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from PoolTest
+[ RUN      ] PoolTest.AllAllocedPointersAreDistinct
+[       OK ] PoolTest.AllAllocedPointersAreDistinct (0 ms)
+[----------] 1 test from PoolTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.04 sec
+----------------------------------------------------------
+Test Passed.
+"PoolTest.AllAllocedPointersAreDistinct" end time: Apr 06 00:00 CDT
+"PoolTest.AllAllocedPointersAreDistinct" time elapsed: 00:00:00
+----------------------------------------------------------
+
+25/58 Testing: PoolTest.AllAllocedIdsAreDistinct
+25/58 Test: PoolTest.AllAllocedIdsAreDistinct
+Command: "/Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine/build/debug/unit_tests" "--gtest_filter=PoolTest.AllAllocedIdsAreDistinct" "--gtest_also_run_disabled_tests"
+Directory: /Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine/build/debug
+"PoolTest.AllAllocedIdsAreDistinct" start time: Apr 06 00:00 CDT
+Output:
+----------------------------------------------------------
+Running main() from /Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine/build/debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = PoolTest.AllAllocedIdsAreDistinct
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from PoolTest
+[ RUN      ] PoolTest.AllAllocedIdsAreDistinct
+[       OK ] PoolTest.AllAllocedIdsAreDistinct (0 ms)
+[----------] 1 test from PoolTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.04 sec
+----------------------------------------------------------
+Test Passed.
+"PoolTest.AllAllocedIdsAreDistinct" end time: Apr 06 00:00 CDT
+"PoolTest.AllAllocedIdsAreDistinct" time elapsed: 00:00:00
+----------------------------------------------------------
+
+26/58 Testing: PoolBoundary.SingleSlot
+26/58 Test: PoolBoundary.SingleSlot
+Command: "/Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine/build/debug/unit_tests" "--gtest_filter=PoolBoundary.SingleSlot" "--gtest_also_run_disabled_tests"
+Directory: /Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine/build/debug
+"PoolBoundary.SingleSlot" start time: Apr 06 00:00 CDT
+Output:
+----------------------------------------------------------
+Running main() from /Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine/build/debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = PoolBoundary.SingleSlot
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from PoolBoundary
+[ RUN      ] PoolBoundary.SingleSlot
+[       OK ] PoolBoundary.SingleSlot (0 ms)
+[----------] 1 test from PoolBoundary (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"PoolBoundary.SingleSlot" end time: Apr 06 00:00 CDT
+"PoolBoundary.SingleSlot" time elapsed: 00:00:00
+----------------------------------------------------------
+
+27/58 Testing: BookTest.EmptyBookBBOIsZero
+27/58 Test: BookTest.EmptyBookBBOIsZero
+Command: "/Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine/build/debug/unit_tests" "--gtest_filter=BookTest.EmptyBookBBOIsZero" "--gtest_also_run_disabled_tests"
+Directory: /Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine/build/debug
+"BookTest.EmptyBookBBOIsZero" start time: Apr 06 00:00 CDT
+Output:
+----------------------------------------------------------
+Running main() from /Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine/build/debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = BookTest.EmptyBookBBOIsZero
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from BookTest
+[ RUN      ] BookTest.EmptyBookBBOIsZero
+[       OK ] BookTest.EmptyBookBBOIsZero (0 ms)
+[----------] 1 test from BookTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.04 sec
+----------------------------------------------------------
+Test Passed.
+"BookTest.EmptyBookBBOIsZero" end time: Apr 06 00:00 CDT
+"BookTest.EmptyBookBBOIsZero" time elapsed: 00:00:00
+----------------------------------------------------------
+
+28/58 Testing: BookTest.AddBidSetsBestBid
+28/58 Test: BookTest.AddBidSetsBestBid
+Command: "/Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine/build/debug/unit_tests" "--gtest_filter=BookTest.AddBidSetsBestBid" "--gtest_also_run_disabled_tests"
+Directory: /Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine/build/debug
+"BookTest.AddBidSetsBestBid" start time: Apr 06 00:00 CDT
+Output:
+----------------------------------------------------------
+Running main() from /Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine/build/debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = BookTest.AddBidSetsBestBid
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from BookTest
+[ RUN      ] BookTest.AddBidSetsBestBid
+[       OK ] BookTest.AddBidSetsBestBid (0 ms)
+[----------] 1 test from BookTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.04 sec
+----------------------------------------------------------
+Test Passed.
+"BookTest.AddBidSetsBestBid" end time: Apr 06 00:00 CDT
+"BookTest.AddBidSetsBestBid" time elapsed: 00:00:00
+----------------------------------------------------------
+
+29/58 Testing: BookTest.AddAskSetsBestAsk
+29/58 Test: BookTest.AddAskSetsBestAsk
+Command: "/Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine/build/debug/unit_tests" "--gtest_filter=BookTest.AddAskSetsBestAsk" "--gtest_also_run_disabled_tests"
+Directory: /Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine/build/debug
+"BookTest.AddAskSetsBestAsk" start time: Apr 06 00:00 CDT
+Output:
+----------------------------------------------------------
+Running main() from /Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine/build/debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = BookTest.AddAskSetsBestAsk
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from BookTest
+[ RUN      ] BookTest.AddAskSetsBestAsk
+[       OK ] BookTest.AddAskSetsBestAsk (0 ms)
+[----------] 1 test from BookTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.04 sec
+----------------------------------------------------------
+Test Passed.
+"BookTest.AddAskSetsBestAsk" end time: Apr 06 00:00 CDT
+"BookTest.AddAskSetsBestAsk" time elapsed: 00:00:00
+----------------------------------------------------------
+
+30/58 Testing: BookTest.BestBidIsHighestPrice
+30/58 Test: BookTest.BestBidIsHighestPrice
+Command: "/Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine/build/debug/unit_tests" "--gtest_filter=BookTest.BestBidIsHighestPrice" "--gtest_also_run_disabled_tests"
+Directory: /Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine/build/debug
+"BookTest.BestBidIsHighestPrice" start time: Apr 06 00:00 CDT
+Output:
+----------------------------------------------------------
+Running main() from /Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine/build/debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = BookTest.BestBidIsHighestPrice
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from BookTest
+[ RUN      ] BookTest.BestBidIsHighestPrice
+[       OK ] BookTest.BestBidIsHighestPrice (1 ms)
+[----------] 1 test from BookTest (1 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (1 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.04 sec
+----------------------------------------------------------
+Test Passed.
+"BookTest.BestBidIsHighestPrice" end time: Apr 06 00:00 CDT
+"BookTest.BestBidIsHighestPrice" time elapsed: 00:00:00
+----------------------------------------------------------
+
+31/58 Testing: BookTest.BestAskIsLowestPrice
+31/58 Test: BookTest.BestAskIsLowestPrice
+Command: "/Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine/build/debug/unit_tests" "--gtest_filter=BookTest.BestAskIsLowestPrice" "--gtest_also_run_disabled_tests"
+Directory: /Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine/build/debug
+"BookTest.BestAskIsLowestPrice" start time: Apr 06 00:00 CDT
+Output:
+----------------------------------------------------------
+Running main() from /Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine/build/debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = BookTest.BestAskIsLowestPrice
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from BookTest
+[ RUN      ] BookTest.BestAskIsLowestPrice
+[       OK ] BookTest.BestAskIsLowestPrice (0 ms)
+[----------] 1 test from BookTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.04 sec
+----------------------------------------------------------
+Test Passed.
+"BookTest.BestAskIsLowestPrice" end time: Apr 06 00:00 CDT
+"BookTest.BestAskIsLowestPrice" time elapsed: 00:00:00
+----------------------------------------------------------
+
+32/58 Testing: BookTest.CancelRemovesOrder
+32/58 Test: BookTest.CancelRemovesOrder
+Command: "/Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine/build/debug/unit_tests" "--gtest_filter=BookTest.CancelRemovesOrder" "--gtest_also_run_disabled_tests"
+Directory: /Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine/build/debug
+"BookTest.CancelRemovesOrder" start time: Apr 06 00:00 CDT
+Output:
+----------------------------------------------------------
+Running main() from /Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine/build/debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = BookTest.CancelRemovesOrder
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from BookTest
+[ RUN      ] BookTest.CancelRemovesOrder
+[       OK ] BookTest.CancelRemovesOrder (0 ms)
+[----------] 1 test from BookTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.04 sec
+----------------------------------------------------------
+Test Passed.
+"BookTest.CancelRemovesOrder" end time: Apr 06 00:00 CDT
+"BookTest.CancelRemovesOrder" time elapsed: 00:00:00
+----------------------------------------------------------
+
+33/58 Testing: BookTest.CancelOneLevelLeavesOthers
+33/58 Test: BookTest.CancelOneLevelLeavesOthers
+Command: "/Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine/build/debug/unit_tests" "--gtest_filter=BookTest.CancelOneLevelLeavesOthers" "--gtest_also_run_disabled_tests"
+Directory: /Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine/build/debug
+"BookTest.CancelOneLevelLeavesOthers" start time: Apr 06 00:00 CDT
+Output:
+----------------------------------------------------------
+Running main() from /Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine/build/debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = BookTest.CancelOneLevelLeavesOthers
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from BookTest
+[ RUN      ] BookTest.CancelOneLevelLeavesOthers
+[       OK ] BookTest.CancelOneLevelLeavesOthers (0 ms)
+[----------] 1 test from BookTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"BookTest.CancelOneLevelLeavesOthers" end time: Apr 06 00:00 CDT
+"BookTest.CancelOneLevelLeavesOthers" time elapsed: 00:00:00
+----------------------------------------------------------
+
+34/58 Testing: BookTest.CancelOneOfTwoAtSameLevel
+34/58 Test: BookTest.CancelOneOfTwoAtSameLevel
+Command: "/Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine/build/debug/unit_tests" "--gtest_filter=BookTest.CancelOneOfTwoAtSameLevel" "--gtest_also_run_disabled_tests"
+Directory: /Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine/build/debug
+"BookTest.CancelOneOfTwoAtSameLevel" start time: Apr 06 00:00 CDT
+Output:
+----------------------------------------------------------
+Running main() from /Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine/build/debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = BookTest.CancelOneOfTwoAtSameLevel
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from BookTest
+[ RUN      ] BookTest.CancelOneOfTwoAtSameLevel
+[       OK ] BookTest.CancelOneOfTwoAtSameLevel (0 ms)
+[----------] 1 test from BookTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.04 sec
+----------------------------------------------------------
+Test Passed.
+"BookTest.CancelOneOfTwoAtSameLevel" end time: Apr 06 00:00 CDT
+"BookTest.CancelOneOfTwoAtSameLevel" time elapsed: 00:00:00
+----------------------------------------------------------
+
+35/58 Testing: BookTest.FifoOrderPreserved
+35/58 Test: BookTest.FifoOrderPreserved
+Command: "/Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine/build/debug/unit_tests" "--gtest_filter=BookTest.FifoOrderPreserved" "--gtest_also_run_disabled_tests"
+Directory: /Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine/build/debug
+"BookTest.FifoOrderPreserved" start time: Apr 06 00:00 CDT
+Output:
+----------------------------------------------------------
+Running main() from /Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine/build/debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = BookTest.FifoOrderPreserved
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from BookTest
+[ RUN      ] BookTest.FifoOrderPreserved
+[       OK ] BookTest.FifoOrderPreserved (0 ms)
+[----------] 1 test from BookTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"BookTest.FifoOrderPreserved" end time: Apr 06 00:00 CDT
+"BookTest.FifoOrderPreserved" time elapsed: 00:00:00
+----------------------------------------------------------
+
+36/58 Testing: BookTest.ReduceDecrementsQuantityAndLevelTotal
+36/58 Test: BookTest.ReduceDecrementsQuantityAndLevelTotal
+Command: "/Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine/build/debug/unit_tests" "--gtest_filter=BookTest.ReduceDecrementsQuantityAndLevelTotal" "--gtest_also_run_disabled_tests"
+Directory: /Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine/build/debug
+"BookTest.ReduceDecrementsQuantityAndLevelTotal" start time: Apr 06 00:00 CDT
+Output:
+----------------------------------------------------------
+Running main() from /Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine/build/debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = BookTest.ReduceDecrementsQuantityAndLevelTotal
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from BookTest
+[ RUN      ] BookTest.ReduceDecrementsQuantityAndLevelTotal
+[       OK ] BookTest.ReduceDecrementsQuantityAndLevelTotal (0 ms)
+[----------] 1 test from BookTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.04 sec
+----------------------------------------------------------
+Test Passed.
+"BookTest.ReduceDecrementsQuantityAndLevelTotal" end time: Apr 06 00:00 CDT
+"BookTest.ReduceDecrementsQuantityAndLevelTotal" time elapsed: 00:00:00
+----------------------------------------------------------
+
+37/58 Testing: BookTest.ReduceTooLargeReturnsError
+37/58 Test: BookTest.ReduceTooLargeReturnsError
+Command: "/Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine/build/debug/unit_tests" "--gtest_filter=BookTest.ReduceTooLargeReturnsError" "--gtest_also_run_disabled_tests"
+Directory: /Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine/build/debug
+"BookTest.ReduceTooLargeReturnsError" start time: Apr 06 00:00 CDT
+Output:
+----------------------------------------------------------
+Running main() from /Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine/build/debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = BookTest.ReduceTooLargeReturnsError
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from BookTest
+[ RUN      ] BookTest.ReduceTooLargeReturnsError
+[       OK ] BookTest.ReduceTooLargeReturnsError (0 ms)
+[----------] 1 test from BookTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"BookTest.ReduceTooLargeReturnsError" end time: Apr 06 00:00 CDT
+"BookTest.ReduceTooLargeReturnsError" time elapsed: 00:00:00
+----------------------------------------------------------
+
+38/58 Testing: BookTest.ReduceByZeroSucceeds
+38/58 Test: BookTest.ReduceByZeroSucceeds
+Command: "/Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine/build/debug/unit_tests" "--gtest_filter=BookTest.ReduceByZeroSucceeds" "--gtest_also_run_disabled_tests"
+Directory: /Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine/build/debug
+"BookTest.ReduceByZeroSucceeds" start time: Apr 06 00:00 CDT
+Output:
+----------------------------------------------------------
+Running main() from /Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine/build/debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = BookTest.ReduceByZeroSucceeds
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from BookTest
+[ RUN      ] BookTest.ReduceByZeroSucceeds
+[       OK ] BookTest.ReduceByZeroSucceeds (0 ms)
+[----------] 1 test from BookTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.04 sec
+----------------------------------------------------------
+Test Passed.
+"BookTest.ReduceByZeroSucceeds" end time: Apr 06 00:00 CDT
+"BookTest.ReduceByZeroSucceeds" time elapsed: 00:00:00
+----------------------------------------------------------
+
+39/58 Testing: BookTest.LevelTotalIsSumOfQuantities
+39/58 Test: BookTest.LevelTotalIsSumOfQuantities
+Command: "/Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine/build/debug/unit_tests" "--gtest_filter=BookTest.LevelTotalIsSumOfQuantities" "--gtest_also_run_disabled_tests"
+Directory: /Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine/build/debug
+"BookTest.LevelTotalIsSumOfQuantities" start time: Apr 06 00:00 CDT
+Output:
+----------------------------------------------------------
+Running main() from /Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine/build/debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = BookTest.LevelTotalIsSumOfQuantities
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from BookTest
+[ RUN      ] BookTest.LevelTotalIsSumOfQuantities
+[       OK ] BookTest.LevelTotalIsSumOfQuantities (0 ms)
+[----------] 1 test from BookTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.04 sec
+----------------------------------------------------------
+Test Passed.
+"BookTest.LevelTotalIsSumOfQuantities" end time: Apr 06 00:00 CDT
+"BookTest.LevelTotalIsSumOfQuantities" time elapsed: 00:00:00
+----------------------------------------------------------
+
+40/58 Testing: EngineTest.ZeroQuantityReturnsError
+40/58 Test: EngineTest.ZeroQuantityReturnsError
+Command: "/Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine/build/debug/unit_tests" "--gtest_filter=EngineTest.ZeroQuantityReturnsError" "--gtest_also_run_disabled_tests"
+Directory: /Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine/build/debug
+"EngineTest.ZeroQuantityReturnsError" start time: Apr 06 00:00 CDT
+Output:
+----------------------------------------------------------
+Running main() from /Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine/build/debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = EngineTest.ZeroQuantityReturnsError
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from EngineTest
+[ RUN      ] EngineTest.ZeroQuantityReturnsError
+[       OK ] EngineTest.ZeroQuantityReturnsError (0 ms)
+[----------] 1 test from EngineTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"EngineTest.ZeroQuantityReturnsError" end time: Apr 06 00:00 CDT
+"EngineTest.ZeroQuantityReturnsError" time elapsed: 00:00:00
+----------------------------------------------------------
+
+41/58 Testing: EngineTest.ZeroPriceLimitReturnsError
+41/58 Test: EngineTest.ZeroPriceLimitReturnsError
+Command: "/Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine/build/debug/unit_tests" "--gtest_filter=EngineTest.ZeroPriceLimitReturnsError" "--gtest_also_run_disabled_tests"
+Directory: /Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine/build/debug
+"EngineTest.ZeroPriceLimitReturnsError" start time: Apr 06 00:00 CDT
+Output:
+----------------------------------------------------------
+Running main() from /Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine/build/debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = EngineTest.ZeroPriceLimitReturnsError
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from EngineTest
+[ RUN      ] EngineTest.ZeroPriceLimitReturnsError
+[       OK ] EngineTest.ZeroPriceLimitReturnsError (1 ms)
+[----------] 1 test from EngineTest (1 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (1 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.04 sec
+----------------------------------------------------------
+Test Passed.
+"EngineTest.ZeroPriceLimitReturnsError" end time: Apr 06 00:00 CDT
+"EngineTest.ZeroPriceLimitReturnsError" time elapsed: 00:00:00
+----------------------------------------------------------
+
+42/58 Testing: EngineTest.NegativePriceLimitReturnsError
+42/58 Test: EngineTest.NegativePriceLimitReturnsError
+Command: "/Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine/build/debug/unit_tests" "--gtest_filter=EngineTest.NegativePriceLimitReturnsError" "--gtest_also_run_disabled_tests"
+Directory: /Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine/build/debug
+"EngineTest.NegativePriceLimitReturnsError" start time: Apr 06 00:00 CDT
+Output:
+----------------------------------------------------------
+Running main() from /Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine/build/debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = EngineTest.NegativePriceLimitReturnsError
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from EngineTest
+[ RUN      ] EngineTest.NegativePriceLimitReturnsError
+[       OK ] EngineTest.NegativePriceLimitReturnsError (0 ms)
+[----------] 1 test from EngineTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"EngineTest.NegativePriceLimitReturnsError" end time: Apr 06 00:00 CDT
+"EngineTest.NegativePriceLimitReturnsError" time elapsed: 00:00:00
+----------------------------------------------------------
+
+43/58 Testing: EngineTest.UnknownSymbolReturnsError
+43/58 Test: EngineTest.UnknownSymbolReturnsError
+Command: "/Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine/build/debug/unit_tests" "--gtest_filter=EngineTest.UnknownSymbolReturnsError" "--gtest_also_run_disabled_tests"
+Directory: /Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine/build/debug
+"EngineTest.UnknownSymbolReturnsError" start time: Apr 06 00:00 CDT
+Output:
+----------------------------------------------------------
+Running main() from /Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine/build/debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = EngineTest.UnknownSymbolReturnsError
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from EngineTest
+[ RUN      ] EngineTest.UnknownSymbolReturnsError
+[       OK ] EngineTest.UnknownSymbolReturnsError (0 ms)
+[----------] 1 test from EngineTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.04 sec
+----------------------------------------------------------
+Test Passed.
+"EngineTest.UnknownSymbolReturnsError" end time: Apr 06 00:00 CDT
+"EngineTest.UnknownSymbolReturnsError" time elapsed: 00:00:00
+----------------------------------------------------------
+
+44/58 Testing: EngineTest.RestingBidUpdatesBBO
+44/58 Test: EngineTest.RestingBidUpdatesBBO
+Command: "/Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine/build/debug/unit_tests" "--gtest_filter=EngineTest.RestingBidUpdatesBBO" "--gtest_also_run_disabled_tests"
+Directory: /Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine/build/debug
+"EngineTest.RestingBidUpdatesBBO" start time: Apr 06 00:00 CDT
+Output:
+----------------------------------------------------------
+Running main() from /Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine/build/debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = EngineTest.RestingBidUpdatesBBO
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from EngineTest
+[ RUN      ] EngineTest.RestingBidUpdatesBBO
+[       OK ] EngineTest.RestingBidUpdatesBBO (0 ms)
+[----------] 1 test from EngineTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"EngineTest.RestingBidUpdatesBBO" end time: Apr 06 00:00 CDT
+"EngineTest.RestingBidUpdatesBBO" time elapsed: 00:00:00
+----------------------------------------------------------
+
+45/58 Testing: EngineTest.RestingAskUpdatesBBO
+45/58 Test: EngineTest.RestingAskUpdatesBBO
+Command: "/Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine/build/debug/unit_tests" "--gtest_filter=EngineTest.RestingAskUpdatesBBO" "--gtest_also_run_disabled_tests"
+Directory: /Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine/build/debug
+"EngineTest.RestingAskUpdatesBBO" start time: Apr 06 00:00 CDT
+Output:
+----------------------------------------------------------
+Running main() from /Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine/build/debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = EngineTest.RestingAskUpdatesBBO
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from EngineTest
+[ RUN      ] EngineTest.RestingAskUpdatesBBO
+[       OK ] EngineTest.RestingAskUpdatesBBO (0 ms)
+[----------] 1 test from EngineTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.04 sec
+----------------------------------------------------------
+Test Passed.
+"EngineTest.RestingAskUpdatesBBO" end time: Apr 06 00:00 CDT
+"EngineTest.RestingAskUpdatesBBO" time elapsed: 00:00:00
+----------------------------------------------------------
+
+46/58 Testing: EngineTest.TwoSidedExactFill
+46/58 Test: EngineTest.TwoSidedExactFill
+Command: "/Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine/build/debug/unit_tests" "--gtest_filter=EngineTest.TwoSidedExactFill" "--gtest_also_run_disabled_tests"
+Directory: /Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine/build/debug
+"EngineTest.TwoSidedExactFill" start time: Apr 06 00:00 CDT
+Output:
+----------------------------------------------------------
+Running main() from /Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine/build/debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = EngineTest.TwoSidedExactFill
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from EngineTest
+[ RUN      ] EngineTest.TwoSidedExactFill
+[       OK ] EngineTest.TwoSidedExactFill (0 ms)
+[----------] 1 test from EngineTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"EngineTest.TwoSidedExactFill" end time: Apr 06 00:00 CDT
+"EngineTest.TwoSidedExactFill" time elapsed: 00:00:00
+----------------------------------------------------------
+
+47/58 Testing: EngineTest.PartialFillAgressorLarger
+47/58 Test: EngineTest.PartialFillAgressorLarger
+Command: "/Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine/build/debug/unit_tests" "--gtest_filter=EngineTest.PartialFillAgressorLarger" "--gtest_also_run_disabled_tests"
+Directory: /Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine/build/debug
+"EngineTest.PartialFillAgressorLarger" start time: Apr 06 00:00 CDT
+Output:
+----------------------------------------------------------
+Running main() from /Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine/build/debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = EngineTest.PartialFillAgressorLarger
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from EngineTest
+[ RUN      ] EngineTest.PartialFillAgressorLarger
+[       OK ] EngineTest.PartialFillAgressorLarger (0 ms)
+[----------] 1 test from EngineTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.04 sec
+----------------------------------------------------------
+Test Passed.
+"EngineTest.PartialFillAgressorLarger" end time: Apr 06 00:00 CDT
+"EngineTest.PartialFillAgressorLarger" time elapsed: 00:00:00
+----------------------------------------------------------
+
+48/58 Testing: EngineTest.PartialFillPassiveLarger
+48/58 Test: EngineTest.PartialFillPassiveLarger
+Command: "/Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine/build/debug/unit_tests" "--gtest_filter=EngineTest.PartialFillPassiveLarger" "--gtest_also_run_disabled_tests"
+Directory: /Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine/build/debug
+"EngineTest.PartialFillPassiveLarger" start time: Apr 06 00:00 CDT
+Output:
+----------------------------------------------------------
+Running main() from /Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine/build/debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = EngineTest.PartialFillPassiveLarger
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from EngineTest
+[ RUN      ] EngineTest.PartialFillPassiveLarger
+[       OK ] EngineTest.PartialFillPassiveLarger (0 ms)
+[----------] 1 test from EngineTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"EngineTest.PartialFillPassiveLarger" end time: Apr 06 00:00 CDT
+"EngineTest.PartialFillPassiveLarger" time elapsed: 00:00:00
+----------------------------------------------------------
+
+49/58 Testing: EngineTest.MultiLevelSweep
+49/58 Test: EngineTest.MultiLevelSweep
+Command: "/Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine/build/debug/unit_tests" "--gtest_filter=EngineTest.MultiLevelSweep" "--gtest_also_run_disabled_tests"
+Directory: /Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine/build/debug
+"EngineTest.MultiLevelSweep" start time: Apr 06 00:00 CDT
+Output:
+----------------------------------------------------------
+Running main() from /Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine/build/debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = EngineTest.MultiLevelSweep
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from EngineTest
+[ RUN      ] EngineTest.MultiLevelSweep
+[       OK ] EngineTest.MultiLevelSweep (0 ms)
+[----------] 1 test from EngineTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.04 sec
+----------------------------------------------------------
+Test Passed.
+"EngineTest.MultiLevelSweep" end time: Apr 06 00:00 CDT
+"EngineTest.MultiLevelSweep" time elapsed: 00:00:00
+----------------------------------------------------------
+
+50/58 Testing: EngineTest.LimitOrderDoesNotCrossAbovePrice
+50/58 Test: EngineTest.LimitOrderDoesNotCrossAbovePrice
+Command: "/Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine/build/debug/unit_tests" "--gtest_filter=EngineTest.LimitOrderDoesNotCrossAbovePrice" "--gtest_also_run_disabled_tests"
+Directory: /Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine/build/debug
+"EngineTest.LimitOrderDoesNotCrossAbovePrice" start time: Apr 06 00:00 CDT
+Output:
+----------------------------------------------------------
+Running main() from /Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine/build/debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = EngineTest.LimitOrderDoesNotCrossAbovePrice
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from EngineTest
+[ RUN      ] EngineTest.LimitOrderDoesNotCrossAbovePrice
+[       OK ] EngineTest.LimitOrderDoesNotCrossAbovePrice (0 ms)
+[----------] 1 test from EngineTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.04 sec
+----------------------------------------------------------
+Test Passed.
+"EngineTest.LimitOrderDoesNotCrossAbovePrice" end time: Apr 06 00:00 CDT
+"EngineTest.LimitOrderDoesNotCrossAbovePrice" time elapsed: 00:00:00
+----------------------------------------------------------
+
+51/58 Testing: EngineTest.MarketBuyFillsAtBestAsk
+51/58 Test: EngineTest.MarketBuyFillsAtBestAsk
+Command: "/Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine/build/debug/unit_tests" "--gtest_filter=EngineTest.MarketBuyFillsAtBestAsk" "--gtest_also_run_disabled_tests"
+Directory: /Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine/build/debug
+"EngineTest.MarketBuyFillsAtBestAsk" start time: Apr 06 00:00 CDT
+Output:
+----------------------------------------------------------
+Running main() from /Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine/build/debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = EngineTest.MarketBuyFillsAtBestAsk
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from EngineTest
+[ RUN      ] EngineTest.MarketBuyFillsAtBestAsk
+[       OK ] EngineTest.MarketBuyFillsAtBestAsk (0 ms)
+[----------] 1 test from EngineTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"EngineTest.MarketBuyFillsAtBestAsk" end time: Apr 06 00:00 CDT
+"EngineTest.MarketBuyFillsAtBestAsk" time elapsed: 00:00:00
+----------------------------------------------------------
+
+52/58 Testing: EngineTest.MarketBuyWithNoAsksProducesNoTrades
+52/58 Test: EngineTest.MarketBuyWithNoAsksProducesNoTrades
+Command: "/Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine/build/debug/unit_tests" "--gtest_filter=EngineTest.MarketBuyWithNoAsksProducesNoTrades" "--gtest_also_run_disabled_tests"
+Directory: /Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine/build/debug
+"EngineTest.MarketBuyWithNoAsksProducesNoTrades" start time: Apr 06 00:00 CDT
+Output:
+----------------------------------------------------------
+Running main() from /Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine/build/debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = EngineTest.MarketBuyWithNoAsksProducesNoTrades
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from EngineTest
+[ RUN      ] EngineTest.MarketBuyWithNoAsksProducesNoTrades
+[       OK ] EngineTest.MarketBuyWithNoAsksProducesNoTrades (0 ms)
+[----------] 1 test from EngineTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.04 sec
+----------------------------------------------------------
+Test Passed.
+"EngineTest.MarketBuyWithNoAsksProducesNoTrades" end time: Apr 06 00:00 CDT
+"EngineTest.MarketBuyWithNoAsksProducesNoTrades" time elapsed: 00:00:00
+----------------------------------------------------------
+
+53/58 Testing: EngineTest.IOCDoesNotCrossAboveItsPrice
+53/58 Test: EngineTest.IOCDoesNotCrossAboveItsPrice
+Command: "/Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine/build/debug/unit_tests" "--gtest_filter=EngineTest.IOCDoesNotCrossAboveItsPrice" "--gtest_also_run_disabled_tests"
+Directory: /Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine/build/debug
+"EngineTest.IOCDoesNotCrossAboveItsPrice" start time: Apr 06 00:00 CDT
+Output:
+----------------------------------------------------------
+Running main() from /Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine/build/debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = EngineTest.IOCDoesNotCrossAboveItsPrice
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from EngineTest
+[ RUN      ] EngineTest.IOCDoesNotCrossAboveItsPrice
+[       OK ] EngineTest.IOCDoesNotCrossAboveItsPrice (0 ms)
+[----------] 1 test from EngineTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.04 sec
+----------------------------------------------------------
+Test Passed.
+"EngineTest.IOCDoesNotCrossAboveItsPrice" end time: Apr 06 00:00 CDT
+"EngineTest.IOCDoesNotCrossAboveItsPrice" time elapsed: 00:00:00
+----------------------------------------------------------
+
+54/58 Testing: EngineTest.IOCPartialFillCancelsRemainder
+54/58 Test: EngineTest.IOCPartialFillCancelsRemainder
+Command: "/Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine/build/debug/unit_tests" "--gtest_filter=EngineTest.IOCPartialFillCancelsRemainder" "--gtest_also_run_disabled_tests"
+Directory: /Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine/build/debug
+"EngineTest.IOCPartialFillCancelsRemainder" start time: Apr 06 00:00 CDT
+Output:
+----------------------------------------------------------
+Running main() from /Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine/build/debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = EngineTest.IOCPartialFillCancelsRemainder
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from EngineTest
+[ RUN      ] EngineTest.IOCPartialFillCancelsRemainder
+[       OK ] EngineTest.IOCPartialFillCancelsRemainder (0 ms)
+[----------] 1 test from EngineTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.04 sec
+----------------------------------------------------------
+Test Passed.
+"EngineTest.IOCPartialFillCancelsRemainder" end time: Apr 06 00:00 CDT
+"EngineTest.IOCPartialFillCancelsRemainder" time elapsed: 00:00:00
+----------------------------------------------------------
+
+55/58 Testing: EngineTest.CancelRemovedFromBook
+55/58 Test: EngineTest.CancelRemovedFromBook
+Command: "/Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine/build/debug/unit_tests" "--gtest_filter=EngineTest.CancelRemovedFromBook" "--gtest_also_run_disabled_tests"
+Directory: /Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine/build/debug
+"EngineTest.CancelRemovedFromBook" start time: Apr 06 00:00 CDT
+Output:
+----------------------------------------------------------
+Running main() from /Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine/build/debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = EngineTest.CancelRemovedFromBook
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from EngineTest
+[ RUN      ] EngineTest.CancelRemovedFromBook
+[       OK ] EngineTest.CancelRemovedFromBook (0 ms)
+[----------] 1 test from EngineTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"EngineTest.CancelRemovedFromBook" end time: Apr 06 00:00 CDT
+"EngineTest.CancelRemovedFromBook" time elapsed: 00:00:00
+----------------------------------------------------------
+
+56/58 Testing: EngineTest.CancelStaleIdReturnsError
+56/58 Test: EngineTest.CancelStaleIdReturnsError
+Command: "/Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine/build/debug/unit_tests" "--gtest_filter=EngineTest.CancelStaleIdReturnsError" "--gtest_also_run_disabled_tests"
+Directory: /Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine/build/debug
+"EngineTest.CancelStaleIdReturnsError" start time: Apr 06 00:00 CDT
+Output:
+----------------------------------------------------------
+Running main() from /Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine/build/debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = EngineTest.CancelStaleIdReturnsError
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from EngineTest
+[ RUN      ] EngineTest.CancelStaleIdReturnsError
+[       OK ] EngineTest.CancelStaleIdReturnsError (0 ms)
+[----------] 1 test from EngineTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.04 sec
+----------------------------------------------------------
+Test Passed.
+"EngineTest.CancelStaleIdReturnsError" end time: Apr 06 00:00 CDT
+"EngineTest.CancelStaleIdReturnsError" time elapsed: 00:00:00
+----------------------------------------------------------
+
+57/58 Testing: EngineTest.PoolExhaustionReturnsError
+57/58 Test: EngineTest.PoolExhaustionReturnsError
+Command: "/Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine/build/debug/unit_tests" "--gtest_filter=EngineTest.PoolExhaustionReturnsError" "--gtest_also_run_disabled_tests"
+Directory: /Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine/build/debug
+"EngineTest.PoolExhaustionReturnsError" start time: Apr 06 00:00 CDT
+Output:
+----------------------------------------------------------
+Running main() from /Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine/build/debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = EngineTest.PoolExhaustionReturnsError
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from EngineTest
+[ RUN      ] EngineTest.PoolExhaustionReturnsError
+[       OK ] EngineTest.PoolExhaustionReturnsError (0 ms)
+[----------] 1 test from EngineTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.04 sec
+----------------------------------------------------------
+Test Passed.
+"EngineTest.PoolExhaustionReturnsError" end time: Apr 06 00:00 CDT
+"EngineTest.PoolExhaustionReturnsError" time elapsed: 00:00:00
+----------------------------------------------------------
+
+58/58 Testing: EngineTest.FifoWithinPriceLevel
+58/58 Test: EngineTest.FifoWithinPriceLevel
+Command: "/Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine/build/debug/unit_tests" "--gtest_filter=EngineTest.FifoWithinPriceLevel" "--gtest_also_run_disabled_tests"
+Directory: /Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine/build/debug
+"EngineTest.FifoWithinPriceLevel" start time: Apr 06 00:00 CDT
+Output:
+----------------------------------------------------------
+Running main() from /Users/luisroayerdi/Coding/Matching-Engine/Matching-Engine/build/debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = EngineTest.FifoWithinPriceLevel
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from EngineTest
+[ RUN      ] EngineTest.FifoWithinPriceLevel
+[       OK ] EngineTest.FifoWithinPriceLevel (0 ms)
+[----------] 1 test from EngineTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"EngineTest.FifoWithinPriceLevel" end time: Apr 06 00:00 CDT
+"EngineTest.FifoWithinPriceLevel" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Apr 06 00:00 CDT
