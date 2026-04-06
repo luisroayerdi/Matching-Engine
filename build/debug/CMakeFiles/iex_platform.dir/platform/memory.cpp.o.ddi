@@ -1,0 +1,9 @@
+{
+  "revision": 0,
+  "rules": [
+    {
+      "primary-output": "CMakeFiles/iex_platform.dir/platform/memory.cpp.o"
+    }
+  ],
+  "version": 1
+}
