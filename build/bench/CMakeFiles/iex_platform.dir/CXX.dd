@@ -1,0 +1,7 @@
+ninja_dyndep_version = 1.0
+build CMakeFiles/iex_platform.dir/platform/clock.cpp.o: dyndep
+
+build CMakeFiles/iex_platform.dir/platform/thread.cpp.o: dyndep
+
+build CMakeFiles/iex_platform.dir/platform/memory.cpp.o: dyndep
+
