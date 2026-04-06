@@ -1,0 +1,9 @@
+{
+  "revision": 0,
+  "rules": [
+    {
+      "primary-output": "CMakeFiles/engine_benchmarks.dir/tests/bench/bench_engine.cpp.o"
+    }
+  ],
+  "version": 1
+}
