@@ -212,9 +212,3 @@ See `DESIGN.md` for the full tradeoff log.
 | Error handling | `std::expected<T, E>` | No exceptions on hot path |
 | Python binding | pybind11 | Clean C++23 interop, zero-copy where possible |
 
----
-
-## For Claude Code Sessions
-
-Read `CLAUDE.md` first. It contains the hard constraints, forbidden patterns,
-implementation order, and benchmark gates. Do not write code before reading it.
