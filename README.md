@@ -43,8 +43,6 @@ x86 — it catches real data races that x86 TSO silently hides. This is a featur
 | `BM_SpscRoundtrip` | < 300 ns | Enqueue + dequeue |
 | `BM_FullPipeline` | < 10 µs | Ingress → match → shm publish |
 
-A 20% regression from the established baseline blocks the next phase.
-
 ---
 
 ## Architecture
@@ -98,7 +96,7 @@ docs/
 
 ---
 
-## Building
+## Building (MacOS)
 
 ### Prerequisites
 
