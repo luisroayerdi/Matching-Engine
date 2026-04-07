@@ -1,8 +1,7 @@
 # IEX Matching Engine
 
 A stock exchange matching engine conforming to IEX DEEP 1.0 Core, built as a systems
-engineering study in modern C++23. The finance domain is a vehicle — the real goal is
-production-grade lock-free systems: seqlock shared memory, SPSC ring buffers, a
+engineering study in modern C++23. The goal is production-grade lock-free systems: seqlock shared memory, SPSC ring buffers, a
 fixed-point matching core, and a Python binding that lets you drive the engine and
 visualize market data from a Jupyter notebook.
 
